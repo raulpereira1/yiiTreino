@@ -1,0 +1,19 @@
+.CardAthletes{
+
+  height: 250px;
+  width: 400px;
+  background-color: #50c878;
+  color:#ded8b3;
+  box-shadow: black 1px 1px 1px;
+  border: solid 1px black;
+  margin: 10px;
+  padding: 1px;
+  text-align: center;
+}
+.CardAthletes h4{
+  color: black;
+}
+
+.CardAthletes:hover {
+  background-color: #0a53be ;
+}
