@@ -17,3 +17,44 @@
 .CardAthletes:hover {
   background-color: #0a53be ;
 }
+
+
+.Competicao{
+box-shadow: black 2px 2px 1px;
+  width: 50vh;
+  height: 40vh;
+  margin: 1px;
+  border-radius: 20px;
+  background-color: #a0d2f4;
+
+
+
+}
+.Competicao-Name{
+  box-shadow: black 2px 2px 2px;
+  text-align: center;
+  background-color: #4d73ce;
+  border-radius: 20px;
+}
+
+.Competicao label{
+  display: flex;
+  border: solid 1px black;
+  border-radius: 10px;
+
+  margin-left: 40px;
+  width: 40vh;
+  /*margin: 5px;*/
+  padding: 2px;
+  background-color: #f8faff;
+  color: black;
+}
+
+.btn{
+  width: 100px;
+  height: 40px;
+  margin: 5px;
+  position: absolute;
+
+
+}
